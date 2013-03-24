@@ -1,0 +1,81 @@
+
+body {
+	font-size: 15px;
+	margin: 0;
+	padding: 20px 0 100px 0;
+	text-align: center;
+}
+
+* {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+a {
+	color: #6899d0;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	text-align: left;
+}
+
+.header {
+	margin: 10px 0 30px 0;
+}
+
+.header h1 {
+	margin-bottom: 5px;
+}
+
+.header a {
+	color: #00487e;
+}
+
+#stream .item {
+	margin-bottom: 30px;
+}
+
+#stream .item .title {
+	background-color: silver;
+	padding: 10px 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	text-shadow: #fff 0 1px 0;
+}
+
+#stream .item .title a {
+	color: black;
+}
+
+#stream .item .content-text {
+	border: 2px solid silver;
+	padding: 20px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.pagination {
+	font-size: 2em;
+}
+
+.pagination a {
+	text-decoration: none;
+	color: gray;
+}
+
+.pagination .current {
+	color: #ff9300;
+}
