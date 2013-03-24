@@ -20,5 +20,5 @@ Lifestream licensed under Creative Commons Attribution 3.0.
 
 Related Articles
 --------
-[Lifestream code explanation (Turkish)](http://mfyz.com/rsslerden-lifestream)
-[Parsing RSS feeds using Simplepie (Turkish)](http://mfyz.com/simplepie-ile-rss-islemek-okumak/)
+* [Lifestream code explanation (Turkish)](http://mfyz.com/rsslerden-lifestream)
+* [Parsing RSS feeds using Simplepie (Turkish)](http://mfyz.com/simplepie-ile-rss-islemek-okumak/)
